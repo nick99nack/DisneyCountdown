@@ -1,0 +1,192 @@
+[Root]
+Most Recent Package=Countdown to Disney
+
+[Package|Countdown to Disney|DisneyCountdown]
+Icon1=DisneyCountdown.exe
+Title1=DisneyCountdown
+StartIn1=$(AppPath)
+Key1=Icon1
+
+
+[Package|Countdown to Disney|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Documents and Settings\U671851\My Documents\VB\DisneyCountdown\Package
+
+[Package|Countdown to Disney|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Countdown to Disney|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Countdown to Disney|Files Found]
+
+[Package|Countdown to Disney|Files Released]
+
+[Package|Countdown to Disney|Missing Dependency Information]
+
+[Package|Countdown to Disney|Out-of-Date Dependency Information]
+
+[Package|Countdown to Disney|Files Added]
+c:\documents and settings\u671851\my documents\vb\disneycountdown\save.dat=
+c:\documents and settings\u671851\my documents\vb\disneycountdown\img\1.bmp=
+c:\documents and settings\u671851\my documents\vb\disneycountdown\img\10.bmp=
+c:\documents and settings\u671851\my documents\vb\disneycountdown\img\11.bmp=
+c:\documents and settings\u671851\my documents\vb\disneycountdown\img\12.bmp=
+c:\documents and settings\u671851\my documents\vb\disneycountdown\img\13.bmp=
+c:\documents and settings\u671851\my documents\vb\disneycountdown\img\14.bmp=
+c:\documents and settings\u671851\my documents\vb\disneycountdown\img\15.bmp=
+c:\documents and settings\u671851\my documents\vb\disneycountdown\img\16.bmp=
+c:\documents and settings\u671851\my documents\vb\disneycountdown\img\17.bmp=
+c:\documents and settings\u671851\my documents\vb\disneycountdown\img\18.bmp=
+c:\documents and settings\u671851\my documents\vb\disneycountdown\img\19.bmp=
+c:\documents and settings\u671851\my documents\vb\disneycountdown\img\2.bmp=
+c:\documents and settings\u671851\my documents\vb\disneycountdown\img\20.bmp=
+c:\documents and settings\u671851\my documents\vb\disneycountdown\img\21.bmp=
+c:\documents and settings\u671851\my documents\vb\disneycountdown\img\22.bmp=
+c:\documents and settings\u671851\my documents\vb\disneycountdown\img\3.bmp=
+c:\documents and settings\u671851\my documents\vb\disneycountdown\img\4.bmp=
+c:\documents and settings\u671851\my documents\vb\disneycountdown\img\5.bmp=
+c:\documents and settings\u671851\my documents\vb\disneycountdown\img\6.bmp=
+c:\documents and settings\u671851\my documents\vb\disneycountdown\img\7.bmp=
+c:\documents and settings\u671851\my documents\vb\disneycountdown\img\8.bmp=
+c:\documents and settings\u671851\my documents\vb\disneycountdown\img\9.bmp=
+c:\documents and settings\u671851\my documents\vb\disneycountdown\img\bg.bmp=
+
+[Package|Countdown to Disney|Files Removed]
+
+[Package|Countdown to Disney|Files In Project]
+C:\Documents and Settings\U671851\My Documents\VB\DisneyCountdown\DisneyCountdown.exe=Yes
+C:\WINNT\system32\msvbvm60.dll=Yes
+C:\WINNT\system32\oleaut32.dll=Yes
+C:\WINNT\system32\olepro32.dll=Yes
+C:\WINNT\system32\asycfilt.dll=Yes
+C:\WINNT\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINNT\system32\MSCOMCT2.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Documents and Settings\U671851\My Documents\VB\DisneyCountdown\save.dat=Yes
+C:\Documents and Settings\U671851\My Documents\VB\DisneyCountdown\img\1.bmp=Yes
+C:\Documents and Settings\U671851\My Documents\VB\DisneyCountdown\img\10.bmp=Yes
+C:\Documents and Settings\U671851\My Documents\VB\DisneyCountdown\img\11.bmp=Yes
+C:\Documents and Settings\U671851\My Documents\VB\DisneyCountdown\img\12.bmp=Yes
+C:\Documents and Settings\U671851\My Documents\VB\DisneyCountdown\img\13.bmp=Yes
+C:\Documents and Settings\U671851\My Documents\VB\DisneyCountdown\img\14.bmp=Yes
+C:\Documents and Settings\U671851\My Documents\VB\DisneyCountdown\img\15.bmp=Yes
+C:\Documents and Settings\U671851\My Documents\VB\DisneyCountdown\img\16.bmp=Yes
+C:\Documents and Settings\U671851\My Documents\VB\DisneyCountdown\img\17.bmp=Yes
+C:\Documents and Settings\U671851\My Documents\VB\DisneyCountdown\img\18.bmp=Yes
+C:\Documents and Settings\U671851\My Documents\VB\DisneyCountdown\img\19.bmp=Yes
+C:\Documents and Settings\U671851\My Documents\VB\DisneyCountdown\img\2.bmp=Yes
+C:\Documents and Settings\U671851\My Documents\VB\DisneyCountdown\img\20.bmp=Yes
+C:\Documents and Settings\U671851\My Documents\VB\DisneyCountdown\img\21.bmp=Yes
+C:\Documents and Settings\U671851\My Documents\VB\DisneyCountdown\img\22.bmp=Yes
+C:\Documents and Settings\U671851\My Documents\VB\DisneyCountdown\img\3.bmp=Yes
+C:\Documents and Settings\U671851\My Documents\VB\DisneyCountdown\img\4.bmp=Yes
+C:\Documents and Settings\U671851\My Documents\VB\DisneyCountdown\img\5.bmp=Yes
+C:\Documents and Settings\U671851\My Documents\VB\DisneyCountdown\img\6.bmp=Yes
+C:\Documents and Settings\U671851\My Documents\VB\DisneyCountdown\img\7.bmp=Yes
+C:\Documents and Settings\U671851\My Documents\VB\DisneyCountdown\img\8.bmp=Yes
+C:\Documents and Settings\U671851\My Documents\VB\DisneyCountdown\img\9.bmp=Yes
+C:\Documents and Settings\U671851\My Documents\VB\DisneyCountdown\img\bg.bmp=Yes
+
+[Package|Countdown to Disney|Configure Registry Files]
+Applicable=No
+
+[Package|Countdown to Disney|Configure Remote Servers]
+Applicable=No
+
+[Package|Countdown to Disney|Install Locations]
+C:\Documents and Settings\U671851\My Documents\VB\DisneyCountdown\DisneyCountdown.exe=$(AppPath)
+C:\WINNT\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Documents and Settings\U671851\My Documents\VB\DisneyCountdown\save.dat=$(AppPath)
+C:\Documents and Settings\U671851\My Documents\VB\DisneyCountdown\img\1.bmp=$(AppPath)\img
+C:\Documents and Settings\U671851\My Documents\VB\DisneyCountdown\img\10.bmp=$(AppPath)\img
+C:\Documents and Settings\U671851\My Documents\VB\DisneyCountdown\img\11.bmp=$(AppPath)\img
+C:\Documents and Settings\U671851\My Documents\VB\DisneyCountdown\img\12.bmp=$(AppPath)\img
+C:\Documents and Settings\U671851\My Documents\VB\DisneyCountdown\img\13.bmp=$(AppPath)\img
+C:\Documents and Settings\U671851\My Documents\VB\DisneyCountdown\img\14.bmp=$(AppPath)\img
+C:\Documents and Settings\U671851\My Documents\VB\DisneyCountdown\img\15.bmp=$(AppPath)\img
+C:\Documents and Settings\U671851\My Documents\VB\DisneyCountdown\img\16.bmp=$(AppPath)\img
+C:\Documents and Settings\U671851\My Documents\VB\DisneyCountdown\img\17.bmp=$(AppPath)\img
+C:\Documents and Settings\U671851\My Documents\VB\DisneyCountdown\img\18.bmp=$(AppPath)\img
+C:\Documents and Settings\U671851\My Documents\VB\DisneyCountdown\img\19.bmp=$(AppPath)\img
+C:\Documents and Settings\U671851\My Documents\VB\DisneyCountdown\img\2.bmp=$(AppPath)\img
+C:\Documents and Settings\U671851\My Documents\VB\DisneyCountdown\img\20.bmp=$(AppPath)\img
+C:\Documents and Settings\U671851\My Documents\VB\DisneyCountdown\img\21.bmp=$(AppPath)\img
+C:\Documents and Settings\U671851\My Documents\VB\DisneyCountdown\img\22.bmp=$(AppPath)\img
+C:\Documents and Settings\U671851\My Documents\VB\DisneyCountdown\img\3.bmp=$(AppPath)\img
+C:\Documents and Settings\U671851\My Documents\VB\DisneyCountdown\img\4.bmp=$(AppPath)\img
+C:\Documents and Settings\U671851\My Documents\VB\DisneyCountdown\img\5.bmp=$(AppPath)\img
+C:\Documents and Settings\U671851\My Documents\VB\DisneyCountdown\img\6.bmp=$(AppPath)\img
+C:\Documents and Settings\U671851\My Documents\VB\DisneyCountdown\img\7.bmp=$(AppPath)\img
+C:\Documents and Settings\U671851\My Documents\VB\DisneyCountdown\img\8.bmp=$(AppPath)\img
+C:\Documents and Settings\U671851\My Documents\VB\DisneyCountdown\img\9.bmp=$(AppPath)\img
+C:\Documents and Settings\U671851\My Documents\VB\DisneyCountdown\img\bg.bmp=$(AppPath)\img
+
+[Package|Countdown to Disney|Configure Shared Files]
+Applicable=Yes
+C:\Documents and Settings\U671851\My Documents\VB\DisneyCountdown\DisneyCountdown.exe=No
+C:\Documents and Settings\U671851\My Documents\VB\DisneyCountdown\save.dat=No
+C:\Documents and Settings\U671851\My Documents\VB\DisneyCountdown\img\1.bmp=No
+C:\Documents and Settings\U671851\My Documents\VB\DisneyCountdown\img\10.bmp=No
+C:\Documents and Settings\U671851\My Documents\VB\DisneyCountdown\img\11.bmp=No
+C:\Documents and Settings\U671851\My Documents\VB\DisneyCountdown\img\12.bmp=No
+C:\Documents and Settings\U671851\My Documents\VB\DisneyCountdown\img\13.bmp=No
+C:\Documents and Settings\U671851\My Documents\VB\DisneyCountdown\img\14.bmp=No
+C:\Documents and Settings\U671851\My Documents\VB\DisneyCountdown\img\15.bmp=No
+C:\Documents and Settings\U671851\My Documents\VB\DisneyCountdown\img\16.bmp=No
+C:\Documents and Settings\U671851\My Documents\VB\DisneyCountdown\img\17.bmp=No
+C:\Documents and Settings\U671851\My Documents\VB\DisneyCountdown\img\18.bmp=No
+C:\Documents and Settings\U671851\My Documents\VB\DisneyCountdown\img\19.bmp=No
+C:\Documents and Settings\U671851\My Documents\VB\DisneyCountdown\img\2.bmp=No
+C:\Documents and Settings\U671851\My Documents\VB\DisneyCountdown\img\20.bmp=No
+C:\Documents and Settings\U671851\My Documents\VB\DisneyCountdown\img\21.bmp=No
+C:\Documents and Settings\U671851\My Documents\VB\DisneyCountdown\img\22.bmp=No
+C:\Documents and Settings\U671851\My Documents\VB\DisneyCountdown\img\3.bmp=No
+C:\Documents and Settings\U671851\My Documents\VB\DisneyCountdown\img\4.bmp=No
+C:\Documents and Settings\U671851\My Documents\VB\DisneyCountdown\img\5.bmp=No
+C:\Documents and Settings\U671851\My Documents\VB\DisneyCountdown\img\6.bmp=No
+C:\Documents and Settings\U671851\My Documents\VB\DisneyCountdown\img\7.bmp=No
+C:\Documents and Settings\U671851\My Documents\VB\DisneyCountdown\img\8.bmp=No
+C:\Documents and Settings\U671851\My Documents\VB\DisneyCountdown\img\9.bmp=No
+C:\Documents and Settings\U671851\My Documents\VB\DisneyCountdown\img\bg.bmp=No
+
+[Package|Countdown to Disney|Distribution]
+Type=single
+Size=
+Title=Countdown to Disney
+
+[Package|Countdown to Disney|IconGroups]
+Group0=$(Programs)
+PrivateGroup0=True
+Parent0=
+
+[Package|Countdown to Disney|$(Programs)]
+Icon1=DisneyCountdown.exe
+Title1=Countdown to Disney
+StartIn1=$(AppPath)
+Key1=Icon3
+
+[Package|Countdown to Disney|Package]
+PackageFolder=C:\Documents and Settings\U671851\My Documents\VB\DisneyCountdown\Package
+ProjectFolder=C:\Documents and Settings\U671851\My Documents\VB\DisneyCountdown
+ServerSideCab=
+File1=C:\Documents and Settings\U671851\My Documents\VB\DisneyCountdown\Package\setup.exe
+File2=C:\Documents and Settings\U671851\My Documents\VB\DisneyCountdown\Package\Setup.Lst
+File3=C:\Documents and Settings\U671851\My Documents\VB\DisneyCountdown\Package\DisneyCountdown.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
