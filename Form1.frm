@@ -94,7 +94,7 @@ Public Sub UpdateCaption()
     ElseIf dateDifference = -1 Then
         CountdownLabel.Caption = Abs(dateDifference) & " day since Disney"
     ElseIf dateDifference = 1 Then
-        CountdownLabel.Caption = Abs(dateDifference) & " day until Disney"
+        CountdownLabel.Caption = Abs(dateDifference) & " day until Disney!"
     Else
         CountdownLabel.Caption = dateDifference & " days until Disney!"
     End If
