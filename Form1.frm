@@ -31,7 +31,7 @@ Begin VB.Form Form1
       _ExtentX        =   2566
       _ExtentY        =   661
       _Version        =   393216
-      Format          =   22740993
+      Format          =   24444929
       CurrentDate     =   44733
       MaxDate         =   73050
       MinDate         =   20285
@@ -89,8 +89,12 @@ End Sub
 Public Sub UpdateCaption()
 
     dateDifference = DateDiff("d", Now, vacationDate)
-    If dateDifference < 0 Then
+    If dateDifference < -1 Then
         CountdownLabel.Caption = Abs(dateDifference) & " days since Disney"
+    ElseIf dateDifference = -1 Then
+        CountdownLabel.Caption = Abs(dateDifference) & " day since Disney"
+    ElseIf dateDifference = 1 Then
+        CountdownLabel.Caption = Abs(dateDifference) & " day until Disney"
     Else
         CountdownLabel.Caption = dateDifference & " days until Disney!"
     End If
